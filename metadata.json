@@ -1,0 +1,6 @@
+{
+  "name": "CodeBrainHub",
+  "description": "Programmers hub to validate app ideas with community voting (Will Use / Won't Use), media previews, and retro arcade theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
